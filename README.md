@@ -35,6 +35,7 @@ def circulate():
 ```
     
 ## Output:
-![Alt text](./Circulate.png)
+![Circulate](https://github.com/PavithraD23004871/Circulate-the-values-of-N-variables/assets/138955967/7882e44e-ecfe-414e-aba4-dd004caca88c)
+
 ## Result:
 Thus the program executed successfully.
